@@ -7,4 +7,4 @@ Slide repository for the Automated Delivery for .NET Applications presentation.
 Links for presentation:
 
 ## Tools
-* [Azure DevOps] (https://azure.com/devops)
+* [Azure DevOps](https://azure.com/devops)
